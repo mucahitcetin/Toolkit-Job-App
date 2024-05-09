@@ -1,13 +1,13 @@
 import React from "react";
-const Button = ({ text }) => {
+const Button = ({ text, type = "submit" }) => {
   return (
-    <button className="c_button">
-      <span className="circle1"></span>
-      <span className="circle2"></span>
-      <span className="circle3"></span>
-      <span className="circle4"></span>
-      <span className="circle5"></span>
-      <span className="text">{text}</span>
+    <button type={type} className="c_button">
+      <span class="circle1"></span>
+      <span class="circle2"></span>
+      <span class="circle3"></span>
+      <span class="circle4"></span>
+      <span class="circle5"></span>
+      <span class="text">{text}</span>
     </button>
   );
 };

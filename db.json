@@ -116,6 +116,24 @@
       "status": "Mülakat",
       "type": "Tam Zamanlı",
       "date": 1715084485026
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Bursa, Osmangazi, Bursa, TUR",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "54ddb909-f477-41b8-b943-ddcf4abcb328",
+      "date": 1715258244208
+    },
+    {
+      "position": "Product Manager",
+      "company": "Microsoft",
+      "location": "Bursa, Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "60ffa0f3-e352-4732-8492-558e4a211825",
+      "date": 1715259600937
     }
   ]
 }

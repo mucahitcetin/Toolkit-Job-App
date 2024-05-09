@@ -30,9 +30,9 @@ const jobSlice = createSlice({
       // sırası bilinen elemanı diziden kaldır
       state.jobs.splice(index, 1);
     },
-  },
-  createJob: (state, { payload }) => {
-    state.jobs.push(payload);
+    createJob: (state, { payload }) => {
+      state.jobs.push(payload);
+    },
   },
 });
 
