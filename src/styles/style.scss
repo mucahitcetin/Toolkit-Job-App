@@ -28,7 +28,7 @@ header {
 
     a {
       text-decoration: none;
-      color: rgb(235, 95, 191);
+      color: rgb(95, 123, 235);
       font-size: 19px;
     }
 
@@ -85,7 +85,7 @@ header {
     }
 
     .letter {
-      background: purple;
+      background: rgb(16, 51, 195);
       width: 60px;
       height: 60px;
       display: grid;
@@ -137,7 +137,7 @@ header {
 .container {
   width: 70vw;
   max-width: 700px;
-  box-shadow: 0 0 55px 0 rgb(235, 95, 191);
+  box-shadow: 0 0 55px 0 rgb(95, 123, 235);
   padding: 25px;
 
   form {

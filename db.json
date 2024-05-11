@@ -37,15 +37,6 @@
       "date": 1318607013502
     },
     {
-      "position": "Data Scientist",
-      "company": "Microsoft",
-      "location": "Menlo Park",
-      "status": "Devam Ediyor",
-      "type": "Yarı Zamanlı",
-      "id": "ec72d702-ff65-46e4-bc4c-0ee6d3660913",
-      "date": 1715607078538
-    },
-    {
       "id": "cbab7e48-67aa-444e-9186-45df01e51586",
       "position": "Data Scientist",
       "company": "Udemig",
@@ -91,24 +82,6 @@
       "date": 1715084219298
     },
     {
-      "id": "a9a0eb5f-0893-4672-bb17-ceae9e4e0d8f",
-      "position": "Frontend Developer",
-      "company": "IBM",
-      "location": "Seattle",
-      "status": "Mülakat",
-      "type": "Tam Zamanlı",
-      "date": 1715084439797
-    },
-    {
-      "id": "16378e68-b18f-440e-a9b9-826b9292a526",
-      "position": "Frontend Developer",
-      "company": "IBM",
-      "location": "İzmir/Bayraklı",
-      "status": "Mülakat",
-      "type": "Tam Zamanlı",
-      "date": 1715084449502
-    },
-    {
       "id": "eaa3099d-c505-4362-a8d6-40bbd21e9c51",
       "position": "Frontend Developer",
       "company": "IBM",
@@ -134,6 +107,24 @@
       "type": "Tam Zamanlı",
       "id": "60ffa0f3-e352-4732-8492-558e4a211825",
       "date": 1715259600937
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Bursa, Türkiye",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "d68ce758-3c3a-428f-9b3b-ebf5895bb06e",
+      "date": 1715460833026
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Bursa, Osmangazi, Bursa, TUR",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "cefd1a46-34d4-49ab-8741-896a217f4d14",
+      "date": 1715460861442
     }
   ]
 }
